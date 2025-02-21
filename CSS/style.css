@@ -101,7 +101,7 @@ nav ul li a {
     border-radius: 50%;
 }
 
-.Learning {
+.Learning-style {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -111,6 +111,7 @@ nav ul li a {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border-bottom: 30px solid;
 }
 
 .language-box {
@@ -207,7 +208,7 @@ nav ul li a {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    background: rgba(0, 0, 0, 100%);
+    background-color: #333;
     height: 24vh;
     width: 100vw;
     align-items: center;
